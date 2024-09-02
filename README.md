@@ -1,19 +1,23 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 # ContaBancoDigital
+
+## Descrição
+
+O **ContaBancoDigital** é um projeto desenvolvido em Java que simula um sistema de banco digital. Este projeto foi criado para aplicar conceitos de análise de negócios, requisitos de software e programação orientada a objetos (POO). Ele inclui funcionalidades básicas de contas bancárias, como depósito, saque e consulta de saldo.
+
+## Funcionalidades
+
+- **Conta Corrente**: Gerencia o saldo e permite depósitos, saques e consultas de saldo.
+- **Conta Poupança**: Semelhante à conta corrente, com regras específicas para depósitos e saques.
+- **Interface Conta**: Define os métodos comuns para todas as contas, garantindo consistência e reusabilidade.
+
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação**: Java
+- **Controle de Versão**: Git, GitHub
+- **Modelagem**: UML (Unified Modeling Language)
+
+## Instruções para Execução
+
+1. **Clone o Repositório**:
+   ```bash
+   git clone https://github.com/BrunaPFLima/ContaBancoDigital.git
